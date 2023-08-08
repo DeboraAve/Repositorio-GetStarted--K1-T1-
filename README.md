@@ -7,4 +7,4 @@
 5. git push -u origin main 
      - Só precisa ser usado na primeira vez, a partir do próximo commit pode ser usado sem determinar origin main ao final
 
-:EMOJICODE:@octocat
+:+1: :heart: :+1:
